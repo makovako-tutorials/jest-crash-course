@@ -1,0 +1,19 @@
+{
+  "name": "jest-crash-course",
+  "version": "1.0.0",
+  "description": "Created after following [this](https://www.youtube.com/watch?v=7r4xVDI2vho) video.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "testwatch":"jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
